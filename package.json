@@ -1,0 +1,24 @@
+{
+  "name": "proyecto-integrador",
+  "version": "1.0.0",
+  "description": "Se va a realizar una tienda virtual de camisetas, gorras, medias, y hoodies para el mundo de los programadores y desarrolladores de software.\r La marca se llamara Happy Coding",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoCastanedaC/Grupo8-Happy-Coding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoCastanedaC/Grupo8-Happy-Coding/issues"
+  },
+  "homepage": "https://github.com/DiegoCastanedaC/Grupo8-Happy-Coding#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
