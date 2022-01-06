@@ -9,6 +9,7 @@
 - Juan José López.
 - Santiago González.
 - Yamile Abello.
+
 *Todos somos nuevos en el mundo del desarrollo*
 ---
 **Referentes:**
