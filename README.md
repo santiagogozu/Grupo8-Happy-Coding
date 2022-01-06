@@ -1,4 +1,4 @@
-! [Happy Coding](https://github.com/DiegoCastanedaC/Grupo8-Happy-Coding/blob/master/public/img/Logo/Logo-PNG.png)
+![Happy Coding](https://github.com/DiegoCastanedaC/Grupo8-Happy-Coding/blob/master/public/img/Logo/Logo-PNG.png)
 ---
 ### Este proyecto tiene como fin crear una tienda vitual de clothes, como camisetas, sudaderas, medias y gorras.
 
