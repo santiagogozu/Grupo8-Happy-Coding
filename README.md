@@ -1,11 +1,18 @@
-Se va a realizar una tienda virtual de camisetas, gorras, medias, y hoodies para el mundo de los programadores y desarrolladores de software.
-La marca se llamara Happy Coding
+! [Happy Coding](public/img/Logo/Logo-PNG.png)
+---
+### Este proyecto tiene como fin crear una tienda vitual de clothes, como camisetas, sudaderas, medias y gorras.
 
-Somos 4 integrantes Yamile, Juan Jose, Santiago y Diego todos nuevos en el mundo del desarrollo.
+### Todos los productos ofrecidos abarcan un público de programadores y desarrolladores de software sin limitantes de género.
 
-Referentes.
-https://elreypalomo.com/
-https://www.lttstore.com/
-https://www.80stees.com/
-https://www.zavvi.ca/
-https://www.teepublic.com/
+**Integrantes del grupo**
+- Diego Castañeda.
+- Juan José López.
+- Santiago González.
+- Yamile Abello.
+---
+**Referentes:**
+- [Tienda Online El Rey Palomo](https://elreypalomo.com/)
+- [Tienda Online Youtuber de LTT](https://www.lttstore.com/)
+- [Tienda Online de ropa 80sTees](https://www.80stees.com/)
+- [Tienda Online de ropa Zavi](https://www.zavvi.ca/)
+- [Tienda Online de ropa Teepublic](https://www.teepublic.com/)
