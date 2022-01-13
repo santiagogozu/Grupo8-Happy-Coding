@@ -1,4 +1,4 @@
-![Happy Coding](/img/Logo/Logo-PNG.png)
+![Happy Coding](public\img\Logo\Logo-PNG.png)
 ---
 ### Este proyecto tiene como fin crear una tienda virtual de ropa, donde se ofrecen los siguientes productos: Camisetas, sudaderas, medias y gorras.
 
