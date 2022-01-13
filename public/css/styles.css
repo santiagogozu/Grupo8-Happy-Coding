@@ -1,0 +1,18 @@
+#camisetaTittle{
+    color: rgb(42, 43, 43);
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-style: normal;
+    font-size: 1.2cm;
+    background-color: #cbbd30;
+    
+}
+
+h2{
+    color: rgb(10, 10, 10);
+    text-align: center;
+    font-style: normal;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #3066cb63;
+    
+}
