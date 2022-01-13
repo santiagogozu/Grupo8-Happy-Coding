@@ -1,6 +1,10 @@
 ![Happy Coding](/img/Logo/Logo-PNG.png)
 ---
+<<<<<<< HEAD
 ### Este proyecto tiene como fin crear una tienda virtual de ropa y articulos, como camisetas, sudaderas, medias y gorras.
+=======
+### Este proyecto tiene como fin crear una tienda virtual de ropa, donde se ofrecen los siguientes productos: Camisetas, sudaderas, medias y gorras.
+>>>>>>> d614fda13f1c14494dfeb8ba17a564792888fab3
 
 ### Todos los productos ofrecidos abarcan un público de programadores y desarrolladores de software sin limitantes de género.
 
