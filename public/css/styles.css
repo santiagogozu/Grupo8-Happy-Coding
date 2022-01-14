@@ -1,11 +1,51 @@
 #camisetaTittle{
-    color: rgb(42, 43, 43);
+    color: rgb(43, 43, 43);
     text-align: center;
     font-family: 'Roboto Mono', monospace;
     font-style: normal;
     font-size: 1.2cm;
     background-color: #cbbd30;
     
+}
+
+#socksTittle{
+    color: rgb(43, 43, 43);
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-style: normal;
+    font-size: 1.2cm;
+    background-color: #30cb8a;
+
+}
+
+#bagsTittle{
+        color: rgb(43, 43, 43);
+        text-align: center;
+        font-family: 'Roboto Mono', monospace;
+        font-style: normal;
+        font-size: 1.2cm;
+        background-color: #6630cbd8;
+
+}
+
+#hoodiesTittle{
+    color: rgb(43, 43, 43);
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-style: normal;
+    font-size: 1.2cm;
+    background-color: #303fcbd7;
+
+}
+
+#hatsTittle{
+    color: rgb(43, 43, 43);
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-style: normal;
+    font-size: 1.2cm;
+    background-color: #cb3045;
+
 }
 
 .camisetas {
